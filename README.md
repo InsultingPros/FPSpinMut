@@ -1,6 +1,6 @@
 # FP Spin Fix
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/FPSpinMut/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/FPSpinMut/total)](https://github.com/InsultingPros/FPSpinMut/releases)
 
 Server side mutator, fixes Fleshpound spinning on another Fleshpound, and all issues comming from that.
 
