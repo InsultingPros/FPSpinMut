@@ -1,0 +1,33 @@
+[h1][b]General Information[/b][/h1]
+This mutator fixes some nasty TWI [b][i]features[/i][/b].
+[spoiler]for more info check attached videos[/spoiler]
+[list]
+[*] FleshPounds won't spin other FleshPounds. Allows to kill them reliably and safely.
+[*] FleshPounds won't launch zeds if you kill them faster than their rage animation duration. Allows to avoid huge fuckups.
+[*] FleshPounds are still able to spin smaller zeds. I didn't touch that since it allows players to block entire hallways with 1 FP. Or block that raged FP with bloats, husks, etc.
+[/list]
+
+[h2][b]Whitelist Status[/b][/h2]
+[list]
+[*] Dedicated server: all clients will level up, get achievs.
+[*] Listened server: except the host itself, all clients will level up, get achievs.
+[*] Solo: greylisted. No regrets.
+[/list]
+
+[h2][b]Technical Information[/b][/h2]
+This is a [b][i]Serverside[/i][/b] mutator, no downloads, no crazy slow code. Can be used as [b][i]Server Actor[/i][/b] aswell.
+
+[h3][b]Mutator Classname[/b][/h3]
+[code]
+FPSpinMut.FPSpinMut
+[/code]
+
+[h3][b]Compatibility[/b][/h3]
+If YOUR mod relies on vanilla [b][i]KFMod.FleshPoundAvoidArea[/i][/b] you better avoid this. Or use my code to rewrite it, I don't care.
+
+[h3][b]Download Link for Lazy Admins[/b][/h3]
+[url=https://github.com/InsultingPros/FPSpinMut/releases]GitHub[/url]
+
+[h3][b]Credits[/b][/h3]
+ArtWork - [url=https://www.deviantart.com/brainstorm-bw-style/art/Fleshpound-Rage-colors-453220493]Brainstorm-bw-style[/url]
+Testers - [url=https://steamcommunity.com/id/mukanshin0/]Shino[/url], [url=https://steamcommunity.com/id/Joabyy/]Joabyy[/url].
